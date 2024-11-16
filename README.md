@@ -1,6 +1,7 @@
 # SkanOwl
 A personnal cyber protection project
 
+Here the discord community: https://discord.gg/hyb2869MWg
 
 ScanOwl is a network scanning tool designed to detect known and unknown MAC addresses in a network environment. It allows users to manage and monitor network traffic in real-time, detect potential security issues like ARP spoofing and MAC spoofing, and provide insights into network activity.
 
