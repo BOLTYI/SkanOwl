@@ -38,10 +38,10 @@ Installation:
 To install and run ScanOwl, make sure you have Python 3.x installed along with the required dependencies. Use the following steps to set up the environment:
 
 Clone this repository to your local machine:
-git clone https://github.com/yourusername/scanowl.git
+git clone https://github.com/yourusername/skanowl.git
 
 Navigate to the project directory:
-cd scanowl
+cd skanowl
 
 Install the required libraries:
 pip install scapy
@@ -49,7 +49,7 @@ pip install PyQT5
 
 
 Run the application:
-python interface.py
+python acceuil.py
 
 Contributing:
 This project is open for contributions. If you would like to add features or fix bugs, feel free to fork the repository and submit a pull request.
