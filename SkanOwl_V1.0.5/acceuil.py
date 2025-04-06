@@ -15,7 +15,7 @@ class HomePage(QWidget):
         title.setStyleSheet("font-size: 24px; font-weight: bold; color: #4B0082;")
         layout.addWidget(title)
 
-        # Network Status
+        #network status
         status_section = QVBoxLayout()
         self.status_label = QLabel("🟢 Everything is fine - No issues detected.")
         self.status_label.setAlignment(Qt.AlignCenter)
@@ -132,7 +132,7 @@ class MainWindow(QWidget):
         palette.setColor(QPalette.Window, QColor(169, 169, 169))  # Set a gray opaque background color
         self.setPalette(palette)
 
-        # Main layout
+        #main layout
         main_layout = QHBoxLayout()
 
         # Sidebar (Navigation)
