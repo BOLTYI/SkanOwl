@@ -1,3 +1,4 @@
 Purpose of the version:
 New acceuil page.
 Start with acceuil.py
+start of mail connexion API
