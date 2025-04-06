@@ -2,3 +2,4 @@ Purpose of the version:
 New acceuil page.
 Start with acceuil.py
 start of mail connexion API
+For this release i tried to use Copilot from Github who gave me some help to add comments
