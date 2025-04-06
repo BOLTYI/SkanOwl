@@ -45,7 +45,7 @@ class Interface(QWidget):
         # Main layout
         layout = QVBoxLayout()
         
-        # Title
+        #title
         title = QLabel("ScanOwl")
         title.setAlignment(Qt.AlignCenter)
         title.setStyleSheet("font-size: 40px; font-weight: bold; color: #4B0082;")  
